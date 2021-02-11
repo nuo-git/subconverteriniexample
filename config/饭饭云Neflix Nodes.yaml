@@ -1,2 +1,2 @@
 proxies:
-  - {name: 🎬 饭饭云 NETFLIX Nodes ⚆⚆⚆, server: tw01.pjj.life, port: 12334, type: ssr, cipher: aes-128-cfb, password: pjj.one, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 41336032:fef2f901-3cdb-406e-9ca5-0a8a4eff1cc4, obfs-param: "", udp: true}
+  - {name: 🎬 饭饭云 NETFLIX Nodes ➜, server: tw01.pjj.life, port: 12334, type: ssr, cipher: aes-128-cfb, password: pjj.one, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 41336032:fef2f901-3cdb-406e-9ca5-0a8a4eff1cc4, obfs-param: "", udp: true}
